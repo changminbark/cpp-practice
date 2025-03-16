@@ -1,0 +1,5 @@
+﻿2025-03-16 18:54:12.100 DEBUG [29476] [main@28] main() called
+2025-03-16 18:54:12.106 DEBUG [29476] [getIntFromUser@8] getIntFromUser() called
+2025-03-16 18:54:16.893 DEBUG [29476] [getIntFromUser@8] getIntFromUser() called
+2025-03-16 18:54:18.482 DEBUG [29476] [printDouble@19] printDouble() called
+2025-03-16 18:54:18.482 DEBUG [29476] [printDouble@19] printDouble() called
