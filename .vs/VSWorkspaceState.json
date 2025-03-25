@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CMakeProjectTest",
+    "\\CMakeProjectTest\\src",
+    "\\testSignedWarning"
   ],
-  "SelectedNode": "\\testSignedWarning.sln",
+  "SelectedNode": "\\CMakeProjectTest",
   "PreviewInSolutionExplorer": false
 }
